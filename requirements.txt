@@ -1,3 +1,7 @@
+einops
+Unidecode
+progressbar
+k-diffusion
 accelerate==0.17.0 ; python_version >= "3.8" and python_full_version != "3.9.7" and python_version < "3.12" \
     --hash=sha256:0e535d6d53ca3bf2752b7387e67c42aa6476f3e208537e393562e2a12f488c8c \
     --hash=sha256:16f226b821acc1efe86f0e0d5d8f25653dff5523735ece0990fefea7eb76076a
