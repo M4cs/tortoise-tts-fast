@@ -5,7 +5,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="TorToiSe",
-    packages=setuptools.find_packages(),
+    packages=[
+        'tortoise',
+    ],
     version="2.4.2",
     author="James Betker",
     author_email="james@adamant.ai",
